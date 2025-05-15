@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep  5 17:17:40 2017
 
-@author: Mohit
 """
 
 #Part 1 : Building a CNN
